@@ -1,0 +1,18 @@
+.box1 {
+    width: 600px;
+    height: 600px;
+    /* background-image: url("../static//1655484198864.png"); */
+    background-color: aqua;
+}
+
+.box2 {
+    width: 600px;
+    height: 600px;
+    background-image: url("../static/IMG_20220630_133613.jpg");
+}
+
+.box3 {
+    width: 600px;
+    height: 600px;
+    background-image: url("../static/Screenshot.jpg");
+}
